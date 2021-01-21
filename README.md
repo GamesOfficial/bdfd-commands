@@ -1,4 +1,4 @@
-# clear-message-command-BDB
+# BDB Commands
 These commands are [bdfd](https://botdesignerdiscord.com)
 Bdfd = app
 BDB = code
