@@ -1,4 +1,5 @@
 $ban
+$color[$random[0;999999]]
 $argsCheck[>1;❎ | Please mention somebody to ban]
 $onlyIf[$mentioned[<]==$authorID;❎ | you can't ban yourself]
 $onlyPerms[ban;❎ | your missing ban members permission]
